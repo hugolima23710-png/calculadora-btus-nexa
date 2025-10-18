@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora de BTUs para Ar-Condicionado",
+  "description": "Uma calculadora interativa para ajudar usuários a encontrar a capacidade ideal de ar-condicionado para seus ambientes, com recomendações de produtos afiliados.",
+  "requestFramePermissions": []
+}
